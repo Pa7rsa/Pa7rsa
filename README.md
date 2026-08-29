@@ -1,116 +1,143 @@
-# 👋 Hey, I'm Parsa
+<div align="center">
 
-> `13` — my signature.
+# 13
 
-### 🔐 Security Research • Bug Bounty • Scripting
+### Security Researcher · Builder · Automation
 
----
 
-## 🛡️ About Me
+Discover → Define → Analyze → Automate
 
-Security researcher and bug bounty hunter focused on understanding systems, finding weaknesses, and building useful tooling for authorized security research.
 
-- 🐧 Comfortable with Arch Linux & Kali Linux
-- 🐍 Python for scripting and automation
-- 🕷️ Reconnaissance & web security research
-- 🎯 Active in bug bounty and responsible disclosure
-- 🕶️ Founder of **G Society**
+<br>
 
----
+<img src="https://img.shields.io/badge/FOCUS-OFFENSIVE%20SECURITY-111111?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/BUILD-SECURITY%20TOOLS-111111?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/MODE-LOCAL%20FIRST-111111?style=flat-square&labelColor=000000" />
 
-## 🧰 Arsenal
-
-### 🐧 Operating Systems
-`Arch Linux` • `Kali Linux` • `Linux`
-
-### 🌐 Web & Bug Bounty
-`Burp Suite` • `OWASP Top 10` • `HTTP/HTTPS` • `Web Recon` • `Responsible Disclosure`
-
-### 🔍 Recon & OSINT
-`Nmap` • `Subfinder` • `Amass` • `httpx` • `Nuclei` • `ffuf` • `Gobuster`
-
-### 🕸️ Web Testing
-`Burp Suite` • `ffuf` • `Nuclei` • `Nikto` • `WhatWeb`
-
-### 🐍 Scripting & Automation
-`Python` • `Bash` • `Requests` • `CLI Automation`
-
-### 🧪 Security Workflow
-`Recon` → `Enumeration` → `Validation` → `Manual Testing` → `Responsible Disclosure`
-
-### 🛠️ Development Environment
-`Git` • `GitHub` • `VS Code` • `Linux Terminal`
-
+</div>
 
 ---
 
-## ⚡ Skills & Environment
+## Arsenal 13
 
-**Languages & Scripting**
+A growing collection of security-focused tools built around research, workflow and automation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-**Operating Systems**
+### ⚡ 13Strike
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+Automated security review pipeline for authorized targets.
 
-**Tools**
+**Scope → Analyze → Detect → Report**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/Pa7rsa/13Strike">
+Open Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔍 13Recon
+
+Reconnaissance and attack surface discovery.
+
+**Discover the surface.**
+
+<a href="https://github.com/Pa7rsa/13Recon">
+Open Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 13Scope
+
+Local-first scope management for security research.
+
+**Define what matters.**
+
+<a href="https://github.com/Pa7rsa/13Scope">
+Open Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧠 13Intel
+
+Local-first intelligence and research organizer.
+
+**Collect context. Connect the dots.**
+
+<a href="https://github.com/Pa7rsa/13Intel">
+Open Repository →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Focus
+## Workflow
 
-- Web Application Security
-- Bug Bounty
-- Security Research
-- Automation
-- Custom Security Scripts
+```text
+                     ┌──────────────┐
+                     │   13Recon    │
+                     │   Discover   │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │   13Scope    │
+                     │   Define     │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │   13Intel    │
+                     │   Analyze    │
+                     └──────┬───────┘
+                            │
+                            ▼
+                     ┌──────────────┐
+                     │   13Strike   │
+                     │   Automate   │
+                     └──────────────┘
+Focus
+• Security Research
+• Offensive Security
+• Automation
+• Reconnaissance
+• Attack Surface Analysis
+• OSINT Workflows
+• Security Tool Development
+Principles
+01 — Automation where it matters.
+02 — Local-first by default.
+03 — Simple tools. Clear output.
+04 — Explicit authorization.
+05 — Build things worth using.
+<div align="center">
+The 13 Arsenal
 
----
+<a href="https://github.com/Pa7rsa/13Strike">13Strike</a>
+·
+<a href="https://github.com/Pa7rsa/13Recon">13Recon</a>
+·
+<a href="https://github.com/Pa7rsa/13Scope">13Scope</a>
+·
+<a href="https://github.com/Pa7rsa/13Intel">13Intel</a>
 
-## 🕶️ G Society
+<br><br>
 
-Security-focused team exploring cybersecurity, research, and technology.
+<sub>13 — Discover. Define. Analyze. Automate.</sub>
 
-**Member of G Society.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pa7rsa&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pa7rsa&theme=tokyonight"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pa7rsa&theme=tokyonight"
-    alt="Most Commit Languages"
-  />
-</p>
-
----
-
-### ⚡ Building • Learning • Researching
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pa7rsa/Pa7rsa/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pa7rsa/Pa7rsa/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pa7rsa/Pa7rsa/output/github-snake.svg">
-</picture>
+</div> ```
