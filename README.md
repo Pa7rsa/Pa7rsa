@@ -54,7 +54,25 @@ Security-focused team exploring cybersecurity, research, and technology.
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pa7rsa&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pa7rsa&theme=tokyonight"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pa7rsa&theme=tokyonight"
+    alt="Most Commit Languages"
+  />
+</p>
 
 ---
 
