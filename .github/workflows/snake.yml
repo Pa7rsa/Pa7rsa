@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,22 +14,21 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Pa7rsa
           outputs: |
-            dist/github-snake.svg?palette=github-dark
-            dist/github-snake.gif
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
-          jekyll: false
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-          TARGET_BRANCH: output
