@@ -56,9 +56,11 @@ Security-focused team exploring cybersecurity, research, and technology.
 
 ## 📊 GitHub Stats
 
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pa7rsa&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pa7rsa&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pa7rsa&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Parsa's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa7rsa&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 ---
 
