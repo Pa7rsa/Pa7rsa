@@ -6,14 +6,41 @@
 
 ---
 
-## 🧠 About Me
+## 🛡️ About Me
 
-🔐 Cybersecurity & Security Research  
-🏆 Bug Bounty Hunter  
-🐧 Arch Linux & Kali Linux  
-🐍 Python for scripting & automation  
-🛠️ Security tools & web security  
-🕶️ Member of G Society  
+Security researcher and bug bounty hunter focused on understanding systems, finding weaknesses, and building useful tooling for authorized security research.
+
+- 🐧 Comfortable with Arch Linux & Kali Linux
+- 🐍 Python for scripting and automation
+- 🕷️ Reconnaissance & web security research
+- 🎯 Active in bug bounty and responsible disclosure
+- 🕶️ Founder of **G Society**
+
+---
+
+## 🧰 Arsenal
+
+### 🐧 Operating Systems
+`Arch Linux` • `Kali Linux` • `Linux`
+
+### 🌐 Web & Bug Bounty
+`Burp Suite` • `OWASP Top 10` • `HTTP/HTTPS` • `Web Recon` • `Responsible Disclosure`
+
+### 🔍 Recon & OSINT
+`Nmap` • `Subfinder` • `Amass` • `httpx` • `Nuclei` • `ffuf` • `Gobuster`
+
+### 🕸️ Web Testing
+`Burp Suite` • `ffuf` • `Nuclei` • `Nikto` • `WhatWeb`
+
+### 🐍 Scripting & Automation
+`Python` • `Bash` • `Requests` • `CLI Automation`
+
+### 🧪 Security Workflow
+`Recon` → `Enumeration` → `Validation` → `Manual Testing` → `Responsible Disclosure`
+
+### 🛠️ Development Environment
+`Git` • `GitHub` • `VS Code` • `Linux Terminal`
+
 
 ---
 
