@@ -63,3 +63,9 @@ Security-focused team exploring cybersecurity, research, and technology.
 ---
 
 ### ⚡ Building • Learning • Researching
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Pa7rsa/Pa7rsa/output/github-snake.svg)
